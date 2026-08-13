@@ -1,6 +1,8 @@
-- cout << "Hello Wolrd! >>;
-- I’m @Amine-Ab
-- Lets dive into Programming World!
+cout << "Hello Wolrd! >>;
+cout << "it's Amine , a C++ learner & programming enthusiast,
+Student at Programmingadvices platforme,
+Let's Dive into Programming World"
+<< endl;
 
 <!---
 Amine-Ab/Amine-Ab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
